@@ -10,7 +10,7 @@ on:
 
 env:
   MAIN_PYTHON_VERSION: '3.8'
-
+  DOCUMENTATION_CNAME: 'grantami.docs.pyansys.com'
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
@@ -94,4 +94,5 @@ jobs:
           publish_dir: documentation-html
           full_commit_message: ${{ github.event.head_commit.message }}
           force_orphan: true
+          cname: ${{ env.DOCUMENTATION_CNAME }}
 
