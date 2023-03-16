@@ -1,11 +1,7 @@
 Granta MI Documentation
 =======================
 
-Top level documentation for all granta mi pyansys packages.
-
-
-How to install
---------------
+Top level documentation for all Granta MI PyAnsys packages.
 
 
 Code Style
