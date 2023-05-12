@@ -1,8 +1,8 @@
 
-Granta MI PyAnsys documentation
-###############################
+PyGranta documentation
+######################
 
-Welcome to the Granta MI PyAnsys documentation. This page lists PyAnsys packages providing integration with Granta MI
+Welcome to the PyGranta documentation. This page lists PyAnsys packages providing integration with Granta MI
 services.
 For guidance on installing, using, or contributing to the listed packages, see the package documentation via the links
 provided below.

@@ -3,3 +3,4 @@ Ansys
 ansys
 PyAnsys
 Granta MI
+PyGranta

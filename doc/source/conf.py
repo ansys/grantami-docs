@@ -4,7 +4,7 @@ from datetime import datetime
 from ansys_sphinx_theme import ansys_favicon, pyansys_logo_black
 
 # Project information
-project = "Granta MI PyAnsys Documentation"
+project = "PyGranta Documentation"
 copyright = f"(c) {datetime.now().year} ANSYS, Inc. All rights reserved"
 author = "ANSYS, Inc."
 release = version = "0.1.dev0"
