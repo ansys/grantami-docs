@@ -18,3 +18,10 @@ Packages
       :class-title: pyansys-card-title
 
       Pythonic interface to Granta MI BoM Analytics services.
+
+    .. grid-item-card:: RecordLists
+      :link: https://recordlists.grantami.docs.pyansys.com/
+      :text-align: center
+      :class-title: pyansys-card-title
+
+      Pythonic interface to Granta MI BoM Lists API.
