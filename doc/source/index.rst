@@ -24,4 +24,4 @@ Packages
       :text-align: center
       :class-title: pyansys-card-title
 
-      Pythonic interface to Granta MI BoM Lists API.
+      Pythonic interface to Granta MI RecordLists API.
