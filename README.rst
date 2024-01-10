@@ -1,3 +1,5 @@
+This repository has been archived. PyGranta documentation is now managed in https://github.com/ansys/pygranta
+
 Granta MI Documentation
 =======================
 
